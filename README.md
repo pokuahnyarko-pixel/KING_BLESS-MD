@@ -4,7 +4,6 @@
 
 <p align="center">
   <img height="1254" src="https://github.com/user-attachments/assets/b7bdef85-a0a9-4bd9-8b11-5bb2db2a9af7" />
-" alt="Bot Banner" />
 </p>
 
 <p align="center">
