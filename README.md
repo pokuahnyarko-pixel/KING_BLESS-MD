@@ -40,8 +40,8 @@
 
 1. **Clone the repository**
    ```bash
-   https://github.com/your-username/king-bless-bot.git
-   cd king-bless-bot
+   https://github.com/pokuahnyarko-pixel/KING_BLESS-MD.git
+   cd KING_BLESS-MD
    ```
    
    2. Install dependencies
